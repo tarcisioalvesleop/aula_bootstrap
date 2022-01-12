@@ -1,2 +1,2 @@
 # aula_bootstrap
-Apreendendo a utilizar bootstrp 
+Apreendendo a utilizar bootstrap 
